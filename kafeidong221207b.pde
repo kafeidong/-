@@ -4,7 +4,7 @@ float blurScale = 1;
 void setup() {
   size(300, 300);
   background(0);
-  img = loadImage("tulip800800.png");
+  img = loadImage("123.png");
 }
 
 void draw() {
